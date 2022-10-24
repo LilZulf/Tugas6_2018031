@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas3_2018031</string>
+    <string name="deskription_menu">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed imperdiet magna, nec scelerisque nibh. Nam at purus vulputate nisi auctor congue a nec nunc. In egestas, neque id feugiat feugiat, dolor nunc lobortis nisi, a sagittis nibh lectus in leo. Praesent vel arcu semper, gravida tortor malesuada, elementum metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec mi odio, vulputate vitae porttitor porttitor, facilisis id nisi. Mauris quis consectetur leo. Curabitur nisi nibh, tempus eu dui sit amet, finibus pharetra est. Fusce in interdum nisi. Etiam at porttitor purus. Duis est nunc, vehicula non magna in, ullamcorper accumsan velit. Morbi non magna vitae risus iaculis finibus. Donec porta iaculis condimentum. Cras vitae bibendum nibh. </string>
+    <string name="date">12/09/2022</string>
+    <string name="quote">tess</string>
+    <string name="username">najib zulfan</string>
+</resources>
