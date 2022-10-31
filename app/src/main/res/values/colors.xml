@@ -11,4 +11,5 @@
     <color name="grey_card">#201F1F</color>
     <color name="yellow">#FDFD1F</color>
     <color name="white_blur">#BDBDBD</color>
+    <color name="bg_primary">#f5f5f5</color>
 </resources>
